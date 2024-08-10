@@ -9,8 +9,15 @@ on:
         required: true
         options:
           - Sonoma v14.6.1
+          - Sonoma v14.6
+          - Sonoma v14.5
+          - Sonoma v14.4.1
+          - Ventura v13.6.9
+          - Ventura v13.6.8
           - Ventura v13.6.7
+          - Monterey v12.7.6
           - Monterey v12.7.5
+          - Monterey v12.7.4
           - Big Sur v11.7.10
           - Catalina v10.15.7
           - Mojave v10.14.6
